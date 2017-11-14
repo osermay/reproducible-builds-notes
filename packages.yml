@@ -23522,6 +23522,10 @@ science.js:
   version: 1.9.3-1
   bugs:
     - 876618
+scikit-learn:
+  version: 0.19.1-1
+  issues:
+    -randomness_in_documentation_generated_by_sphinx
 scilab:
   version: 5.5.2-4
   bugs:
